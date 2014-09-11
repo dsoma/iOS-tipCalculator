@@ -19,6 +19,6 @@ The round off is closest to the 0.5 dollar amount. For example, $15.4 total amou
 
 Walkthrough of all user stories:
 
-![Video Walkthrough]()
+![Video Walkthrough](demo.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
